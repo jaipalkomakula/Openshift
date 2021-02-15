@@ -1,1 +1,1 @@
-this is test
+openshift wiki
